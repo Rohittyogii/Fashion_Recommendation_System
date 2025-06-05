@@ -1,7 +1,6 @@
-streamlit
+streamlit==1.45.1
 opencv-python
 pandas
 numpy
 scikit-learn
-tensorflow
-Pillow
+tensorflow==2.16.1
